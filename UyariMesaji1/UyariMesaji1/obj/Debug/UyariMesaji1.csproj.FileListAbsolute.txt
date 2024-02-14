@@ -1,0 +1,10 @@
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\bin\Debug\UyariMesaji1.exe.config
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\bin\Debug\UyariMesaji1.exe
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\bin\Debug\UyariMesaji1.pdb
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.csproj.AssemblyReference.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.Properties.Resources.resources
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.csproj.GenerateResource.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.exe
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.pdb
+C:\Users\kerem\OneDrive\Masaüstü\c#Uygulamalari\UyariMesaji1\UyariMesaji1\obj\Debug\UyariMesaji1.Form1.resources
